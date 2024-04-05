@@ -6,7 +6,6 @@ My name is _Avinash_. I am a Frontend web developer from India.
 
 -   [Email me](mailto:alvs.codee@slmail.me)
 -   [Portfolio website](https://alvs.dev)
--   [Download Resume](https://alvs.dev/resume)
 
 ### Skills and tools
 
