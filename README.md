@@ -15,16 +15,17 @@ My name is _Avinash_. I am a Frontend web developer from India.
 | **Programming languages** | Javascript, Typescript                        |
 | **UI frameworks**         | React JS, Preact JS                           |
 | **Rendering frameworks**  | Astro JS, Next JS                             |
+| **Backend as a Service**  | Supabase, Appwrite                            |
 | **Headless CMS**          | Sanity                                        |
-| **Component Libraries**   | Radix UI                                      |
+| **Component Libraries**   | Radix UI, Shadcn UI                           |
 | **CSS Frameworks**        | Tailwind CSS, Bootstrap                       |
 | **Templating lang**       | Pug JS, JSX                                   |
 | **Tools**                 | Git, Figma, Vite, PostCSS, Gulp, pnpm, VScode |
-| **JS Libraries**          | Zod(validation lib), Stripe(payments)         |
+| **JS Libraries**          | Zod(validation lib), Razorpay(payments)       |
 
 > For a detailed and exhaustive list of skills and tools, visit [my public note on skills and tools](https://alvs.dev/notes/skills-and-tools/).
 
-🌱 I’m currently upskilling my current skills by builiding more projects.
+🌱 I’m currently upskilling my skills by builiding more projects.
 
 ### Things I am excited to learn in near future
 
